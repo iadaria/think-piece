@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io/think-piece/static/css/main.b167db64.chunk.css",
+    "main.js": "/github.io/think-piece/static/js/main.f63552d9.chunk.js",
+    "main.js.map": "/github.io/think-piece/static/js/main.f63552d9.chunk.js.map",
+    "runtime-main.js": "/github.io/think-piece/static/js/runtime-main.684e351f.js",
+    "runtime-main.js.map": "/github.io/think-piece/static/js/runtime-main.684e351f.js.map",
+    "static/js/2.43b64174.chunk.js": "/github.io/think-piece/static/js/2.43b64174.chunk.js",
+    "static/js/2.43b64174.chunk.js.map": "/github.io/think-piece/static/js/2.43b64174.chunk.js.map",
+    "index.html": "/github.io/think-piece/index.html",
+    "precache-manifest.1b6288691c86f9b86689b92029252ff2.js": "/github.io/think-piece/precache-manifest.1b6288691c86f9b86689b92029252ff2.js",
+    "service-worker.js": "/github.io/think-piece/service-worker.js",
+    "static/css/main.b167db64.chunk.css.map": "/github.io/think-piece/static/css/main.b167db64.chunk.css.map",
+    "static/js/2.43b64174.chunk.js.LICENSE.txt": "/github.io/think-piece/static/js/2.43b64174.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.684e351f.js",
+    "static/js/2.43b64174.chunk.js",
+    "static/css/main.b167db64.chunk.css",
+    "static/js/main.f63552d9.chunk.js"
+  ]
+}
