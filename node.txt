@@ -1,1 +1,4 @@
 https://github.com/stevekinney/think-piece
+
+from package.json
+//"deploy": "yarn run build && firebase deploy"
