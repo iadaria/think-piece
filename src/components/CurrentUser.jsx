@@ -11,7 +11,7 @@ const CurrentUser = ({ displayName, photoURL, email, createdAt}) => {
       <div className="CurrentUser--profile">
         {photoURL && <img src={photoURL} alt={displayName} />}
         <div className="CurrentUser--information">
-          <Link to="profile">
+          <Link to="/think-piece/profile">
               <h2>{displayName}</h2>
           </Link>
           <p className="email">{email}</p>
