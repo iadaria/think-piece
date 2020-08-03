@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/think-piece/static/css/main.b167db64.chunk.css",
-    "main.js": "/think-piece/static/js/main.db559f54.chunk.js",
-    "main.js.map": "/think-piece/static/js/main.db559f54.chunk.js.map",
+    "main.js": "/think-piece/static/js/main.d56ad014.chunk.js",
+    "main.js.map": "/think-piece/static/js/main.d56ad014.chunk.js.map",
     "runtime-main.js": "/think-piece/static/js/runtime-main.ef0746fa.js",
     "runtime-main.js.map": "/think-piece/static/js/runtime-main.ef0746fa.js.map",
     "static/js/2.43b64174.chunk.js": "/think-piece/static/js/2.43b64174.chunk.js",
     "static/js/2.43b64174.chunk.js.map": "/think-piece/static/js/2.43b64174.chunk.js.map",
     "index.html": "/think-piece/index.html",
-    "precache-manifest.df4ead77c6bf0c4cd6b9cabcc865613b.js": "/think-piece/precache-manifest.df4ead77c6bf0c4cd6b9cabcc865613b.js",
+    "precache-manifest.5434d5dcbeb5eeda3c20b96395e34296.js": "/think-piece/precache-manifest.5434d5dcbeb5eeda3c20b96395e34296.js",
     "service-worker.js": "/think-piece/service-worker.js",
     "static/css/main.b167db64.chunk.css.map": "/think-piece/static/css/main.b167db64.chunk.css.map",
     "static/js/2.43b64174.chunk.js.LICENSE.txt": "/think-piece/static/js/2.43b64174.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ef0746fa.js",
     "static/js/2.43b64174.chunk.js",
     "static/css/main.b167db64.chunk.css",
-    "static/js/main.db559f54.chunk.js"
+    "static/js/main.d56ad014.chunk.js"
   ]
 }
